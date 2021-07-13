@@ -1,0 +1,13 @@
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.csproj.AssemblyReference.cache
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.AssemblyInfoInputs.cache
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.AssemblyInfo.cs
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Projects\Pictures\Pictures\bin\Debug\netcoreapp3.1\Pictures.exe
+C:\Users\Vadim\Projects\Pictures\Pictures\bin\Debug\netcoreapp3.1\Pictures.deps.json
+C:\Users\Vadim\Projects\Pictures\Pictures\bin\Debug\netcoreapp3.1\Pictures.runtimeconfig.json
+C:\Users\Vadim\Projects\Pictures\Pictures\bin\Debug\netcoreapp3.1\Pictures.runtimeconfig.dev.json
+C:\Users\Vadim\Projects\Pictures\Pictures\bin\Debug\netcoreapp3.1\Pictures.dll
+C:\Users\Vadim\Projects\Pictures\Pictures\bin\Debug\netcoreapp3.1\Pictures.pdb
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.dll
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.pdb
+C:\Users\Vadim\Projects\Pictures\Pictures\obj\Debug\netcoreapp3.1\Pictures.genruntimeconfig.cache
